@@ -1,0 +1,7 @@
+123AlexDavid99879789alex@mail.comhouseno3torontostreetNo9streetNo9Toronto78754456test@mail.com22/01/202130/04/2021140
+0 d "c:\Users\SalehBam\Desktop\Student Internshipd\ Test\" ; if ($?) { gcc Student.c -o Student } ; i f ($?) { .\Student  }
+ cd "c:\Users\SalehBam\Desktop\Student Internshipd\Test\" ; if ($?) { gcc Student.c -o Student } ; if ($?) { .\Student }
+ cd "c:\Users\SalehB  gcc Student.c -o Student } ; if ($?) { .\Student }
+  gcc Student.c -o Student } ; if ($?) { .\Student }
+ cd "c:\Users\SalehBam\Desktop\Student Internshipd \Test\" ; if ($?) {  gcc Student.c -o S tudent } ; if ($?)  { .\Student }
+ 0
